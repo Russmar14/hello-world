@@ -1,5 +1,7 @@
 # hello-world
 My first repository
-This is my first time making changes to a file. 
 
-My name is Russell.
+This is the actual edited version.
+My name's russell. 
+For real
+
